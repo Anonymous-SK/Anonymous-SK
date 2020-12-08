@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg" target=https://telegram.dog/Ns_AnoNymouS>
+[<p align="center">
+<img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg">](https://telegram.dog/Ns_AnoNymouS)
 
 ### [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://telegram.dog/Ns_AnoNymouS)
 
