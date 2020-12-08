@@ -45,3 +45,9 @@ Here are some ideas to get you started:
 ### Status 📈
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+
+
+.. image:: https://github.com/python-telegram-bot/logos/blob/master/logo-text/png/ptb-logo-text_768.png?raw=true
+   :align: center
+   :target: https://python-telegram-bot.org
+   :alt: Anonymous
