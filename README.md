@@ -70,11 +70,10 @@ Here are some ideas to get you started:
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
 ### Skills 👨‍💻
-<a href="https://www.python.org/" alt="Python"> <img src="https://img.shields.io/badge/Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 </a>
     <a href="https://www.python.org">
         <img
-            src="https://img.shields.io/badge/badge/Python-1f425f.svg?&style=flat&logo=python&colour=blue"
+            src="https://img.shields.io/badge/PYTHON-1f425f.svg?&style=flat&logo=python&colour=blue"
             alt="Python"
         >
 ### King of Style 😏
