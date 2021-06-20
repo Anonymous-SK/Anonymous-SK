@@ -16,26 +16,28 @@ Here are some ideas to get you started:
 -->
 
 [<p align="center">
-<img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/fad7278c16adccaa0d192.jpg">](https://telegram.dog/TheStyleKing)
 
-## I am [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://telegram.dog/Ns_AnoNymouS)
+## I am [ѕτγℓє κιиg](https://telegram.dog/TheStyleKing)
 
-- 🔭 I’m currently working on telegram botz
+✯ 🔭 I’m currently working on telegram bots and Movies Channels
 
-- 🌱 I’m currently learning python
+✯ 🌱 I’m currently learning Coding
 
-- 👯 I’m looking to collaborate on 🤷🏻‍♂️
+✯ 🌱 I’m currently learning python
 
-- 🤔 I’m looking for help with ...
+✯ 👯 I’m looking to collaborate on 🤷🏻‍♂️
 
-- 📫 How to reach me: [@Ns_AnoNymouS](https://telegram.dog/Ns_AnoNymouS)(Telegram)
+✯ 🤔 I’m looking for help with ...
+
+- 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing)(Telegram)
 
 ### Available 👇
 
-[![Anonymous Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/Ns_AnoNymouS)
+[![TheStyleKing Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/TheStyleKing)
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ns_AnoNymouS/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
 
 ### Skills 👨‍💻
@@ -44,4 +46,4 @@ Here are some ideas to get you started:
 
 ### Status 📈
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Style-King&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
