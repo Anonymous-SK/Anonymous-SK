@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 ### Skills 👨‍💻
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
 
+[![TheStyleKing](https://telegra.ph/file/8939b16efe1fc2fa7e160.png)](https://telegram.dog/TheStyleKing)
 
 ### Status 📈
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Style-King&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
-[![TheStyleKing](https://telegra.ph/file/8939b16efe1fc2fa7e160.png)](https://telegram.dog/TheStyleKing)
