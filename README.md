@@ -34,20 +34,8 @@ Here are some ideas to get you started:
 
 ✯ 💞 My Favorite & My Inspiration 👇
 
-* MR Lokaman:  <a href="https://t.me/MrLokaman" alt="MrLokaman"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-MrLokaman-blue" /> </a>
+* MR Lokaman:  <a href="https://t.me/MrLokaman" alt="MrLokaman"> <img src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=Mr Lokaman" /> </a>
 
-</a>
-    <a href="https://telegram.me/MrLokaman">
-        <img
-            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
-            alt="MrLokaman"
-        >
-</a>
-    <a href="https://telegram.me/MaxxRiderz">
-        <img
-            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
-            alt="MaxxRiderz"
-        >
 ### Available 👇
 
 </a>
