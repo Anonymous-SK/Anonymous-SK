@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
 ### Skills 👨‍💻
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
+<a href="https://www.python.org/" alt="Python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 
 ### King of Style 😏
 [![TheStyleKing](https://telegra.ph/file/8939b16efe1fc2fa7e160.png)](https://telegram.dog/TheStyleKing)
