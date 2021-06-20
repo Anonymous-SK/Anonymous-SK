@@ -71,7 +71,12 @@ Here are some ideas to get you started:
 
 ### Skills 👨‍💻
 <a href="https://www.python.org/" alt="Python"> <img src="https://img.shields.io/badge/Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-
+</a>
+    <a href="https://www.python.org">
+        <img
+            src="https://img.shields.io/badge/badge/Python-1f425f.svg?&style=flat&logo=python&colour=blue"
+            alt="Python"
+        >
 ### King of Style 😏
 [![TheStyleKing](https://telegra.ph/file/8939b16efe1fc2fa7e160.png)](https://telegram.dog/TheStyleKing)
 
