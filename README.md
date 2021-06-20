@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 ### Status 📈
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Style-King&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
-[![TheStyleKing](https://telegra.ph/file/1d61998ea11a7b152bcc1.png)](https://telegram.dog/TheStyleKing).
+[![TheStyleKing](https://telegra.ph/file/8939b16efe1fc2fa7e160.png)](https://telegram.dog/TheStyleKing)
