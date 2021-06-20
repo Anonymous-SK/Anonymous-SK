@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ✯ 🌱 I’m currently learning Coding
 
-✯ 🌱 I’m currently learning python <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+✯ 🌱 I’m currently learning python
 
 ✯ 👯 I’m looking to collaborate on Repository
 
@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 
 ✯ 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
 
-✯ 💞 My Favorite & My Inspiration 👇
+</p>
+
+<h3 align="left">❤️ My accounts:</h3>
+<p align="left">
 </a>
     <a href="https://telegram.me/NS_Anonymous">
         <img
@@ -51,7 +54,7 @@ Here are some ideas to get you started:
             src="https://img.shields.io/badge/Maxx Rider-black?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
-### Available 👇
+### I am available only in telegram 
 
 </a>
     <a href="https://telegram.me/TheStyleKing">
@@ -59,7 +62,7 @@ Here are some ideas to get you started:
             src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
             alt="Telegram"
         >
-
+</p>
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
 
