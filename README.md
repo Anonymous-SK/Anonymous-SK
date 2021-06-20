@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ✯ 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
 
-✯ 💞 My Favorite & My Inspiration ❣️ 👇
+✯ 💞 My Favorite & My Inspiration
+
 </a>
     <a href="https://telegram.me/NS_Anoymous">
         <img
