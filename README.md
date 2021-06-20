@@ -57,7 +57,7 @@ Here are some ideas to get you started:
         > 
 </p>
 
-### Available 👇
+### i am Available in 👇
 
 </a>
     <a href="https://telegram.me/TheStyleKing">
@@ -66,6 +66,7 @@ Here are some ideas to get you started:
             alt="Telegram"
         >
 
+### Profile Views
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
 ### Skills 👨‍💻
