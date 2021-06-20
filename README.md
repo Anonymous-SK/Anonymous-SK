@@ -33,14 +33,24 @@ Here are some ideas to get you started:
 ✯ 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
 
 ✯ 💞 My Favorite & My Inspiration 👇
-
+</a>
+    <a href="https://telegram.me/NS_Anonymous">
+        <img
+            src="https://img.shields.io/badge/NS Anonymous-black?&style=for-the-badge&logo=Telegram"
+            alt="Telegram"
+        >
 </a>
     <a href="https://telegram.me/MrLokaman">
         <img
-            src="https://img.shields.io/badge/Mr-black?&style=for-the-badge&logo=Telegram"
+            src="https://img.shields.io/badge/Mr Lokaman Bro-black?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
-
+</a>
+    <a href="https://telegram.me/MaxxRiderz">
+        <img
+            src="https://img.shields.io/badge/Maxx Rider-black?&style=for-the-badge&logo=Telegram"
+            alt="Telegram"
+        >
 ### Available 👇
 
 </a>
