@@ -24,18 +24,41 @@ Here are some ideas to get you started:
 
 ✯ 🌱 I’m currently learning Coding
 
-✯ 🌱 I’m currently learning python
+✯ 🌱 I’m currently learning python <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-✯ 👯 I’m looking to collaborate on 🤷🏻‍♂️
+✯ 👯 I’m looking to collaborate on Repository
 
 ✯ 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing)(Telegram)
+✯ 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
 
+✯ 💞 My Favorite & My Inspiration ❣️ 👇
+</a>
+    <a href="https://telegram.me/NS_Anoymous">
+        <img
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            alt="NS Anonymous"
+        >
+</a>
+    <a href="https://telegram.me/MrLokaman">
+        <img
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            alt="MrLokaman"
+        >
+</a>
+    <a href="https://telegram.me/MaxxRiderz">
+        <img
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            alt="MaxxRiderz"
+        >
 ### Available 👇
 
-[![TheStyleKing Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/TheStyleKing)
-
+</a>
+    <a href="https://telegram.me/TheStyleKing">
+        <img
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            alt="Telegram"
+        >
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
