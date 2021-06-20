@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ✯ 🤔 I’m looking for help with ...
 
-✯ 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
+✯ 📫 Just reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
 
-✯ 😂 Fun fact : I am Just a NooB 🤣
+✯ 🤞 Fun fact : I am Just a NooB 😜
 </p>
 
 <h3 align="left">❤️ My Favorite and Inspiration:</h3>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </a>
     <a href="https://telegram.me/NS_Anonymous">
         <img
-            src="https://img.shields.io/badge/NS Anonymous-black?&style=for-the-badge&logo=Telegram"
+            src="https://img.shields.io/badge/NS Anonymous Bro-blue?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
 </a>
