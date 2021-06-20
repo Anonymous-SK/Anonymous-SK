@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </a>
     <a href="https://telegram.me/MrLokaman">
         <img
-            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=MrLokaman"
+            src="https://img.shields.io/badge/Mr-black?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
 
