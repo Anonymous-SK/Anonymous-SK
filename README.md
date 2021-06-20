@@ -34,7 +34,12 @@ Here are some ideas to get you started:
 
 ✯ 💞 My Favorite & My Inspiration 👇
 
-* MR Lokaman:  <a href="https://t.me/MrLokaman" alt="MrLokaman"> <img src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=Mr Lokaman" /> </a>
+</a>
+    <a href="https://telegram.me/MrLokaman">
+        <img
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=MrLokaman"
+            alt="Telegram"
+        >
 
 ### Available 👇
 
