@@ -57,7 +57,7 @@ Here are some ideas to get you started:
         > 
 </p>
 
-### i am Available in 👇
+### i am Available in
 
 </a>
     <a href="https://telegram.me/TheStyleKing">
