@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 ### Skills 👨‍💻
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
 
+### King of Style 😏
 [![TheStyleKing](https://telegra.ph/file/8939b16efe1fc2fa7e160.png)](https://telegram.dog/TheStyleKing)
 
 ### Status 📈
