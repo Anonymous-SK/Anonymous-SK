@@ -26,15 +26,16 @@ Here are some ideas to get you started:
 
 ✯ 🌱 I’m currently learning python
 
-✯ 👯 I’m looking to collaborate on Repository
+✯ 👯 I’m looking to collaborate on Projects
 
 ✯ 🤔 I’m looking for help with ...
 
 ✯ 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
 
+✯ 😂 Fun fact : I am Just a NooB 🤣
 </p>
 
-<h3 align="left">❤️ My accounts:</h3>
+<h3 align="left">❤️ My Favorite and Inspiration:</h3>
 <p align="left">
 </a>
     <a href="https://telegram.me/NS_Anonymous">
@@ -54,16 +55,8 @@ Here are some ideas to get you started:
             src="https://img.shields.io/badge/Maxx Rider-black?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
-
-###  I am available only in telegram 
-
-</a>
-    <a href="https://telegram.me/TheStyleKing">
-        <img
-            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
-            alt="Telegram"
-        >
-</p>
+### Available 👇
+[![TheStyleKing Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/TheStyleKing)
 
 ### Skills 👨‍💻
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
