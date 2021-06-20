@@ -54,7 +54,8 @@ Here are some ideas to get you started:
         <img
             src="https://img.shields.io/badge/Maxx Rider-black?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
-        >
+        > 
+</p>
 \n ### Available 👇
 
 [![Anonymous Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/Ns_AnoNymouS)
