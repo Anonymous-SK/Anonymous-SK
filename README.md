@@ -32,14 +32,10 @@ Here are some ideas to get you started:
 
 ✯ 📫 How to reach me: [@TheStyleKing](https://telegram.dog/TheStyleKing) (Telegram)
 
-✯ 💞 My Favorite & My Inspiration
+✯ 💞 My Favorite & My Inspiration 👇
 
-</a>
-    <a href="https://telegram.me/NS_Anoymous">
-        <img
-            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
-            alt="NS Anonymous"
-        >
+* MR Lokaman:  <a href="https://t.me/MrLokaman" alt="MrLokaman"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-MrLokaman-blue" /> </a>
+
 </a>
     <a href="https://telegram.me/MrLokaman">
         <img
