@@ -56,7 +56,11 @@ Here are some ideas to get you started:
             alt="Telegram"
         >
 ### Available 👇
-[![TheStyleKing Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/TheStyleKing)
+
+[![Anonymous Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/Ns_AnoNymouS)
+
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
 ### Skills 👨‍💻
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
