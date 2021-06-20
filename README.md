@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 </a>
     <a href="https://telegram.me/MrLokaman">
         <img
-            src="https://img.shields.io/badge/Mr Lokaman Bro-black?&style=for-the-badge&logo=Telegram"
+            src="https://img.shields.io/badge/Mr Lokaman Bro-red?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
 </a>
     <a href="https://telegram.me/MaxxRiderz">
         <img
-            src="https://img.shields.io/badge/Maxx Rider-black?&style=for-the-badge&logo=Telegram"
+            src="https://img.shields.io/badge/Maxx Rider-white?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         > 
 </p>
