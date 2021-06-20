@@ -54,7 +54,8 @@ Here are some ideas to get you started:
             src="https://img.shields.io/badge/Maxx Rider-black?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
-### I am available only in telegram 
+
+###  I am available only in telegram 
 
 </a>
     <a href="https://telegram.me/TheStyleKing">
@@ -63,8 +64,6 @@ Here are some ideas to get you started:
             alt="Telegram"
         >
 </p>
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
-
 
 ### Skills 👨‍💻
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
