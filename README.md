@@ -63,7 +63,7 @@ Here are some ideas to get you started:
             alt="Telegram"
         >
 </p>
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Style-King/&title=Profile%20Views)
 
 
 ### Skills 👨‍💻
