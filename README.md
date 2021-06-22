@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ✯ 🔭 I’m currently working on telegram bots and Movies Channels
 
-✯ 🌱 I’m currently learning Coding
+✯ 😉 I’m currently learning Coding
 
-✯ 🌱 I’m currently learning python
+✯ 🌱 I’m currently learning python , Java
 
 ✯ 👯 I’m looking to collaborate on Projects
 
