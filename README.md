@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 </p>
 
 ### King of Style 😏
-[![TheStyleKing](https://telegra.ph/file/8939b16efe1fc2fa7e160.png)](https://telegram.dog/TheStyleKing)
+[![TheStyleKing](https://telegra.ph/file/b140675f480f3f00fe685.png)](https://telegram.dog/TheStyleKing)
 
 ### Status 📈
 
