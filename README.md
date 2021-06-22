@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [<p align="center">
 <img src="https://telegra.ph/file/fad7278c16adccaa0d192.jpg">](https://telegram.dog/TheStyleKing)
 
-## I am [𝒮𝓉𝓎𝓁ℯ 𝒦𝒾𝓃ℊ](https://telegram.dog/TheStyleKing)
+## I am [𝑆𝑡𝑦𝑙𝑒 𝐾𝑖𝑛𝑔](https://telegram.dog/TheStyleKing)
 
 ✯ 🔭 I’m currently working on telegram bots and Movies Channels
 
