@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </a>
     <a href="https://telegram.me/NS_Anonymous">
         <img
-            src="https://img.shields.io/badge/NS Anonymous Bro-blue?&style=for-the-badge&logo=Telegram"
+            src="https://img.shields.io/badge/NS Anonymous-blue?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
         >
 </a>
