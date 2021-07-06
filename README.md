@@ -30,24 +30,6 @@ Here are some ideas to get you started:
 
 ✯ 📫 Just reach me: [@MahanMVAdmin](https://telegram.dog/MahanMVAdmin) (Telegram)
 
-</p>
-
-<h3 align="left">❤️ My Inspirations:</h3>
-<p align="left">
-</a>
-    <a href="https://telegram.me/NS_Anonymous">
-        <img
-            src="https://img.shields.io/badge/NS Anonymous-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram"
-        >
-</a>
-    <a href="https://telegram.me/MrLokaman">
-        <img
-            src="https://img.shields.io/badge/Mr Lokaman Bro-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram"
-        >
-</p>
-
 ### i am Available in
 
 </a>
