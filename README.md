@@ -79,7 +79,7 @@ Here are some ideas to get you started:
         >
 </p>
 
-### King of Style 😏
+### Style king 😒
 [![TheStyleKing](https://telegra.ph/file/b140675f480f3f00fe685.png)](https://telegram.dog/TheStyleKing)
 
 ### Status 📈
