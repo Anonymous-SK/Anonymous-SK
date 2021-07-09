@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [<p align="center">
 <img src="https://telegra.ph/file/98464a0b3b0b42bb64fcf.jpg">](https://telegram.dog/TheStyleKing)
 
-## I am [Pruthvi Raj](https://telegram.dog/MahanMVAdmin)
+## I am [Anonymous](https://telegram.dog/MahanMVAdmin)
 
 ✯ 🔭 I’m currently working on telegram bots and Movies Channels
 
