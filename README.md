@@ -30,6 +30,18 @@ Here are some ideas to get you started:
 
 ✯ 📫 Just reach me: [@MahanMVAdmin](https://telegram.dog/MahanMVAdmin) (Telegram)
 
+✯ My inspiration 😊
+</a>
+    <a href="https://telegram.me/NS_Anonymous">
+        <img
+            src="https://img.shields.io/badge/Anonymous NS-blue?&style=for-the-badge&logo=Telegram"
+            alt="Telegram"
+        >
+
+### Our Team in Telegram
+
+Team : [@MahanCreations](https://t.me/MahanCreations)
+
 ### i am Available in
 
 </a>
