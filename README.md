@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ✯ 👯 I’m looking to collaborate on Projects
 
-✯ 📫 Just reach me: [@MahanMVAdmin](https://telegram.dog/MahanMVAdmin) (Telegram)
+✯ 📫 Contact me : as [@MahanMVAdmin](https://telegram.dog/MahanMVAdmin) in Telegram
 
 ✯ My inspiration 😊
 
