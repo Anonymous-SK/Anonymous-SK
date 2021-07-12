@@ -58,7 +58,7 @@ Here are some ideas to get you started:
         >
 
 ### Profile Views
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PruthviRaj-2005/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anonymous-SK/&title=Profile%20Views)
 
 ### Skills 👨‍💻
 </p>
@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 
 ### Status 📈
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PruthviRaj-2005&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Anonymous-SK&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
