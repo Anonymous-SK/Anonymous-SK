@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [<p align="center">
-<img src="https://telegra.ph/file/98464a0b3b0b42bb64fcf.jpg">](https://telegram.dog/TheStyleKing)
+<img src="https://telegra.ph/file/d1684a3d2adc0778a19e8.jpg">](https://telegram.dog/TheStyleKing)
 
 ## I am [Anonymous](https://telegram.dog/MahanMVAdmin)
 
