@@ -69,7 +69,3 @@ Here are some ideas to get you started:
             alt="Python"
         >
 </p>
-### Status
-
-
-Revealing Soon 😭😭
