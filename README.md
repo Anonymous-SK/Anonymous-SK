@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ✯ 📫 Contact me as [@MahanMVAdmin](https://telegram.dog/MahanMVAdmin) in Telegram
 
-✯ My inspiration 😊
+✯ Follower of 😊
 
 </a>
     <a href="https://telegram.me/NS_Anonymous">
