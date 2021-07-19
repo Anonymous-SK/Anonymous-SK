@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ✯ 🔭 I’m currently working on telegram bots and Movies Channels
 
-✯ 😉 I’m currently learning Coding
+✯ 😒 I’m currently learning Programming
 
 ✯ 🌱 I’m currently learning python , Java
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ✯ 📫 Contact me as [@MahanMVAdmin](https://telegram.dog/MahanMVAdmin) in Telegram
 
-✯ Follower of 😊
+✯ Follower of 👇 
 
 </a>
     <a href="https://telegram.me/NS_Anonymous">
