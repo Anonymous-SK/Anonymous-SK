@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <a href="https://telegram.me/KannadaHDPictures">
         <img
             src="https://img.shields.io/badge/Kannada HD Picture's-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram" height="40" width="180"
+            alt="Telegram" height="30" width="180"
         >
 
 
