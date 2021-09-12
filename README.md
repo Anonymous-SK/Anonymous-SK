@@ -36,11 +36,11 @@ Here are some ideas to get you started:
     <a href="https://telegram.me/NS_Anonymous">
         <img
             src="https://img.shields.io/badge/Anonymous NS-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram"
+            alt="Telegram" height="40" width="180"
         >
 
 
-# Currently I'm working on 
+### Currently I'm working on 
 </a>
     <a href="https://telegram.me/KannadaHDPictures">
         <img
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
         >
 
 
-# i am Available in
+### i am Available in
 </a>
     <a href="https://telegram.me/MahanMVAdmin">
         <img
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
             alt="Telegram" height="50" width="200"
         >
 
-# Profile Views
+### Profile Views
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anonymous-SK/&title=Profile%20Views)
 
 # Skills 👨‍💻
