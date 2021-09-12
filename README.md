@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
-**Style-King/Style-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raj-Anonymous/Raj-Anonymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 [<p align="center">
 <img src="https://telegra.ph/file/d1684a3d2adc0778a19e8.jpg">](https://telegram.dog/TheStyleKing)
 
-## I am [Mahan MV Admin](https://telegram.dog/MahanMVAdmin)
+## I am [Raj Anonymous](https://telegram.dog/MahanMVAdmin)
 
 ✯ 🔭 I’m currently working on telegram bots and Movies Channels
 
 ✯ 😒 I’m currently learning Programming
 
-✯ 🌱 I’m currently learning python , Java
+✯ 🌱 I’m currently learning python , Java script , HTML , CSS
 
 ✯ 👯 I’m looking to collaborate on Projects
 
-✯ 📫 Contact me as [@MahanMVAdmin](https://telegram.dog/MahanMVAdmin) in Telegram
+✯ 📫 Contact me as [@RJ_Anonymous](https://telegram.dog/MahanMVAdmin) in Telegram
 
 ✯ Follower of 👇 
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         >
 
 
-### Currently I'm working on 
+Currently I'm working on 
 </a>
     <a href="https://telegram.me/MahanCreations">
         <img
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
         >
 
 
-### i am Available in
+i am Available in
 </a>
     <a href="https://telegram.me/MahanMVAdmin">
         <img
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
             alt="Telegram"
         >
 
-### Profile Views
+Profile Views
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anonymous-SK/&title=Profile%20Views)
 
 ### Skills 👨‍💻
