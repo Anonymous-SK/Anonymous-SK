@@ -67,6 +67,6 @@ Here are some ideas to get you started:
         <img
             src="https://img.shields.io/badge/PYTHON-1f425f.svg?&style=flat&logo=python&colour=blue"
             alt="Python"
-            height="40" width="70"
+            height="25" width="70"
         >
 </p>
