@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         >
 
 
-Currently I'm working on 
+# Currently I'm working on 
 </a>
     <a href="https://telegram.me/MahanCreations">
         <img
@@ -49,7 +49,7 @@ Currently I'm working on
         >
 
 
-i am Available in
+# i am Available in
 </a>
     <a href="https://telegram.me/MahanMVAdmin">
         <img
