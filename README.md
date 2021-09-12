@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 # Currently I'm working on 
 </a>
-    <a href="https://telegram.me/MahanCreations">
+    <a href="https://telegram.me/KannadaHDPictures">
         <img
-            src="https://img.shields.io/badge/Mahan Creations-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram"
+            src="https://img.shields.io/badge/Kannada HD Picture's-blue?&style=for-the-badge&logo=Telegram"
+            alt="Telegram" height="40" width="150"
         >
 
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <a href="https://telegram.me/MahanMVAdmin">
         <img
             src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram"
+            alt="Telegram" height="50" width="200"
         >
 
 # Profile Views
