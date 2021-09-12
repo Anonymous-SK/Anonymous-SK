@@ -57,15 +57,16 @@ Here are some ideas to get you started:
             alt="Telegram"
         >
 
-Profile Views
+# Profile Views
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anonymous-SK/&title=Profile%20Views)
 
-### Skills 👨‍💻
+# Skills 👨‍💻
 </p>
 </a>
     <a href="https://www.python.org">
         <img
             src="https://img.shields.io/badge/PYTHON-1f425f.svg?&style=flat&logo=python&colour=blue"
             alt="Python"
+            height="40" width="70"
         >
 </p>
