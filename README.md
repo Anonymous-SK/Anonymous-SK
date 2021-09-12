@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <a href="https://telegram.me/MahanMVAdmin">
         <img
             src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram" height="50" width="200"
+            alt="Telegram" height="40" width="180"
         >
 
 ### Profile Views
